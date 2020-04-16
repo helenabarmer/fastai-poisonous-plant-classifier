@@ -5,4 +5,4 @@ Classifier for 5 poisonous plants in Sweden. Implemented using fastai.
 Press the button to launch the classifier.\
 Please note that it might take up to 5 minutes to launch.\
 \
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/helenabarmer/fastai-poisonous-plant-classifier/master?urlpath=plant_classifier.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/helenabarmer/fastai-poisonous-plant-classifier/master?urlpath=%2Fvoila%2Frender%2Fplant_classifier.ipynb)
